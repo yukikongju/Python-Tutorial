@@ -13,4 +13,5 @@ https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
 * Machine Learning with SciKit: https://www.youtube.com/watch?v=M9Itm95JzL0
 https://scikit-learn.org/stable/index.html
 * Web Scrapping with BeautifulSoup:
-
+* Web application with Dash: https://dash.plot.ly/
+* Dashboard Analytics with Chart Studio: https://plot.ly/chart-studio-help/tutorials/
