@@ -16,3 +16,8 @@ https://scikit-learn.org/stable/index.html
 * Web application with Dash: https://dash.plot.ly/
 * Dashboard Analytics with Chart Studio: https://plot.ly/chart-studio-help/tutorials/
 * Deep Learning with Keras:
+
+### Algorithms
+
+Rosalind: http://rosalind.info/
+LeetCode: https://leetcode.com/
