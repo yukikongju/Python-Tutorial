@@ -21,3 +21,7 @@ https://scikit-learn.org/stable/index.html
 
 Rosalind: http://rosalind.info/
 LeetCode: https://leetcode.com/
+
+## Useful Links
+
+Kernel matrices :https://en.wikipedia.org/wiki/Kernel_(image_processing)
