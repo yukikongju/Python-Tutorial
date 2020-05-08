@@ -25,3 +25,4 @@ LeetCode: https://leetcode.com/
 ## Useful Links
 
 Kernel matrices :https://en.wikipedia.org/wiki/Kernel_(image_processing)
+Extension Packages: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
