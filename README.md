@@ -16,6 +16,7 @@ https://scikit-learn.org/stable/index.html
 * Web application with Dash: https://dash.plot.ly/
 * Dashboard Analytics with Chart Studio: https://plot.ly/chart-studio-help/tutorials/
 * Deep Learning with Keras:
+* BlackBox Theory: https://christophm.github.io/interpretable-ml-book/
 
 ### Algorithms
 
