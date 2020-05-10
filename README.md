@@ -16,14 +16,25 @@ https://scikit-learn.org/stable/index.html
 * Web application with Dash: https://dash.plot.ly/
 * Dashboard Analytics with Chart Studio: https://plot.ly/chart-studio-help/tutorials/
 * Deep Learning with Keras:
-* BlackBox Theory: https://christophm.github.io/interpretable-ml-book/
 
 ### Algorithms
 
-Rosalind: http://rosalind.info/
-LeetCode: https://leetcode.com/
+* Rosalind: http://rosalind.info/
+* LeetCode: https://leetcode.com/
+
+## Tutorials
+
+* BlackBox Theory: https://christophm.github.io/interpretable-ml-book/
+* Applied Machine Learning:https://www.kaggle.com/vanshjatana/applied-machine-learning
+* Data Visualization: https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization
+* Text Classification: https://www.kaggle.com/vanshjatana/text-classification-from-scratch
+* GANs: https://www.kaggle.com/sayakdasgupta/introduction-to-gans-on-fashion-mnist-dataset
 
 ## Useful Links
 
-Kernel matrices :https://en.wikipedia.org/wiki/Kernel_(image_processing)
-Extension Packages: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+* Kernel matrices :https://en.wikipedia.org/wiki/Kernel_(image_processing)
+* Extension Packages: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+## Projects
+
+* Sign Language: https://www.kaggle.com/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy
