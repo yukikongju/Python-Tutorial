@@ -38,3 +38,7 @@ https://scikit-learn.org/stable/index.html
 ## Projects
 
 * Sign Language: https://www.kaggle.com/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy
+
+## More
+
+Basic Knowledge: https://www.basicknowledge101.com/sitemap.html
