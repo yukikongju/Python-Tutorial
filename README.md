@@ -30,6 +30,8 @@ https://scikit-learn.org/stable/index.html
 * Text Classification: https://www.kaggle.com/vanshjatana/text-classification-from-scratch
 * GANs: https://www.kaggle.com/sayakdasgupta/introduction-to-gans-on-fashion-mnist-dataset
 * Introduction to Artificial Intelligence by CS50: https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
+* Neural Networks by Michael Nielsen: http://neuralnetworksanddeeplearning.com/
+
 
 ## Useful Links
 
@@ -40,6 +42,6 @@ https://scikit-learn.org/stable/index.html
 
 * Sign Language: https://www.kaggle.com/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy
 
-## More
+## Books
 
 
